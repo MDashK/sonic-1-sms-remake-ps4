@@ -9,4 +9,6 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 1. Some PC exclusive features have been removed.
 2. Labyrinth underwater does not change the character coloring (for some reason, the shaders don't work on the PS4?!?)
 
+**Update 22/10/2021**: Fixed Retro screen mode.
+
 **Big Special Thanks to cubeww, m1s3ry, SilicaAndPina and KuromeSan.**
