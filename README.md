@@ -1,4 +1,4 @@
-# sonic-1-sms-remake-ps4
+# Sonic 1 SMS Remake PS4
 
 A port of the fangame **Sonic 1 SMS Remake** for the **PS4**.
 
