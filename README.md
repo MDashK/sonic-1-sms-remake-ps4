@@ -47,8 +47,6 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
 - Polishing the physics of zones
 
-- Correction in the Shaders of Labyrinth Zone
-
 - Option to enable/disable Air Jump
 
 - Change(Circle) button is used as a back function in the options
