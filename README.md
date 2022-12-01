@@ -2,17 +2,66 @@
 
 A port of the fangame **Sonic 1 SMS Remake** for the **PS4**.
 
-**Competition works! And you can even cross-play between versions PC/Android/PS4/NSW.**
+**Competition works! And you can even cross-play between versions PC/Android/PS4.**
 
 Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
-**Expected bugs and issues:**
+**Highlights of the latest update:**
+
+• Fixed major memory leak **(no more crashes! \o/)**
+<br>
+• 60 FPS mode!
+<br>
+• Lots of other optimizations
+
+**Expected bugs and notes:**
 
 1. Labyrinth underwater does not change the character coloring and super characters won't have the glow effect. (for some reason, the shaders don't work on the PS4?!?)
+
+2. When saving, the game freezes for a brief moment. This is mostly noticeable when exiting options or switching between memory cards. BTW: You can delete a memory card using the square button.
 
 --------------------
 
 **Changelog:**
+
+
+**v1.9 rev.2:**
+
+- Now in 60 FPS (switch 30/60 modes)
+
+- New optimization system
+
+- New main camera
+
+- New menu: Gameplay
+
+- New Badnik Roller in Spring Yard Zone
+
+- New chain sound effects in Marble Zone
+
+- New physics of Ray the Flying Squirrel
+
+- Spring Yard Act 2 level design changes
+
+- Mask bug fixed on big buttons at Zones
+
+- Polishing the physics of zones
+
+- Correction in the Shaders of Labyrinth Zone
+
+- Option to enable/disable Air Jump
+
+- Change(Circle) button is used as a back function in the options
+
+- Removed cameras option
+
+- Super animation fix
+
+- Fixed bugs on platforms
+
+- General review of the game by Beta Testers
+
+- Updated credits
 
 
 **v1.9:**
