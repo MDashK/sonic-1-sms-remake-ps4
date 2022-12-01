@@ -1,6 +1,6 @@
-# Sonic 1 SMS Remake PS4
+# Sonic SMS Remake PS4
 
-A port of the fangame **Sonic 1 SMS Remake** for the **PS4**.
+A port of the fangame **Sonic SMS Remake** for the **PS4**.
 
 **Competition works! And you can even cross-play between versions PC/Android/PS4.**
 
